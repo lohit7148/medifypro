@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc6fceaf.css",
+    "main.js": "/static/js/main.3c01e19b.js",
+    "static/media/faqs-banner.png": "/static/media/faqs-banner.bce850cf2721d7914262.png",
+    "static/media/NicePng_doctor-png_336282 1.png": "/static/media/NicePng_doctor-png_336282 1.cca9ebf68505450aba43.png",
+    "static/media/patientcaring.png": "/static/media/patientcaring.4f06e8678a6940859ee9.png",
+    "static/media/mobile.png": "/static/media/mobile.a4a4b7462e42de955628.png",
+    "static/media/our-families-banner.png": "/static/media/our-families-banner.cad624831d4122d11051.png",
+    "static/media/doc1.png": "/static/media/doc1.224629284aae300dadd1.png",
+    "static/media/doc2.png": "/static/media/doc2.74e878ff301c35567a43.png",
+    "static/media/blog.png": "/static/media/blog.6a6248bfd3458c818a69.png",
+    "static/media/offer2.png": "/static/media/offer2.faa0183ba36efff96395.png",
+    "static/media/offer1.png": "/static/media/offer1.3be0b906f53126032cfe.png",
+    "static/media/cta.png": "/static/media/cta.c0d9697969db40f79c3b.png",
+    "static/media/Ambulance.svg": "/static/media/Ambulance.02a6eb413d7bc8b2ccd206a29eeb3798.svg",
+    "static/media/Hospital.svg": "/static/media/Hospital.100315f7c640a887f7f83abe26f9d7cf.svg",
+    "static/media/Doctor.svg": "/static/media/Doctor.f8d2edf6161be0942612146ecfafcb10.svg",
+    "static/media/Drugstore.svg": "/static/media/Drugstore.7f11e090bd311a7e7a5b8c83554e3141.svg",
+    "static/media/Capsule.svg": "/static/media/Capsule.36eaca65af1caca8fcb2ba623cfa0d36.svg",
+    "static/media/pin.svg": "/static/media/pin.fe13523a4765bbe2ea89a71c37255fc5.svg",
+    "static/media/tw.svg": "/static/media/tw.5c17749a6a28f29fcdbbc9a3f5996ab8.svg",
+    "static/media/yt.svg": "/static/media/yt.f50eaf9c5825ef8156f788038cedec6d.svg",
+    "index.html": "/index.html",
+    "static/media/fb.svg": "/static/media/fb.d4fe7c0dc6670255135cb1c48537a313.svg",
+    "main.bc6fceaf.css.map": "/static/css/main.bc6fceaf.css.map",
+    "main.3c01e19b.js.map": "/static/js/main.3c01e19b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc6fceaf.css",
+    "static/js/main.3c01e19b.js"
+  ]
+}
